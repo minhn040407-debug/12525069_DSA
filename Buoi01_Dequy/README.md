@@ -1,6 +1,6 @@
 # Buổi 01 – Đệ quy
 
-Họ tên: Nguyễn Hoài Anh · MSV: 12525069
+Họ tên: Nguyễn Văn Minh · MSV: 12525069
 
 ## Bài đã làm
 Chương 1: bài 1, 2, 3, 4, 5.
